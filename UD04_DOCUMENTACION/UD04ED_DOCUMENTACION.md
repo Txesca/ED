@@ -2,7 +2,7 @@
 
 
 
-##  (1) El control de versiones mediante git
+##  1. El control de versiones mediante git
 
 ### 1. Introducción
 
